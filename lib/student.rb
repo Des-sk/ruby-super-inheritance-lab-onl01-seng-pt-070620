@@ -5,6 +5,6 @@ class Study
   end
   
   def raise_hand
-    
+    puts 
   
 end  
