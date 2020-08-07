@@ -1,0 +1,3 @@
+class Study
+  
+  def hello
