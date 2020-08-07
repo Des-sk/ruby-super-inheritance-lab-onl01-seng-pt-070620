@@ -1,3 +1,4 @@
 class Study
   
-  def hello
+  def hello 
+    
